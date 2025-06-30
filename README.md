@@ -1,4 +1,6 @@
-# Code-Cubicle-4.0-Team-Access-Denied-
+# Code-Cubicle-4.0
+
+# Team Access Denied!
 
 
 # This is the link to our Video prototype
